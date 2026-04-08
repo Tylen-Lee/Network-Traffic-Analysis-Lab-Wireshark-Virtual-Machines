@@ -47,9 +47,12 @@ This project also aims to develop skills in virtualization, network configuratio
 
 ## 📄 Lab Report
 
-Click below to view the full documentation:
+Click below to view the full Network-Traffic-Analysis-Lab-Wireshark-&-Virtual-Machines documentation:
 
 [![View Report](https://img.shields.io/badge/View-Full%20PDF-blue?style=for-the-badge)](./Cybersecurity-Virtual-Lab-Network-Security-Simulation.pdf)
+
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/e1b1af4d-8566-4331-9c63-c059dd85f860" />
+
 
 
 
