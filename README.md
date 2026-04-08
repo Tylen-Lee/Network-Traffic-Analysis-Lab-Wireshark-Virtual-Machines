@@ -11,30 +11,24 @@ This project also aims to develop skills in virtualization, network configuratio
 
 ## Skills Acquired
 
- - Virtualization & Environment Setup
+ - Virtualization & Environment Setup  
   Creating and configuring virtual machines using Oracle VM (VirtualBox)
-
- - Network Configuration & Troubleshooting
+ - Network Configuration & Troubleshooting  
   Setting up machines on the same network and verifying connectivity  
   Testing communication between systems using command-line tools  
-
- - Packet Capture & Network Analysis
+ - Packet Capture & Network Analysis  
   Capturing live network traffic using Wireshark  
   Analysing packet data to understand network communication  
-
- - TCP/IP & Protocol Analysis
+ - TCP/IP & Protocol Analysis  
   Analysing TCP three-way handshake (SYN, SYN-ACK, ACK)  
   Understanding client-server communication  
-
- - Network Traffic & Security Awareness
+ - Network Traffic & Security Awareness  
   Understanding how data flows across a network  
   Recognising normal vs suspicious network behaviour  
-
-- Documentation & Reporting
+- Documentation & Reporting  
   Capturing screenshots and documenting technical processes clearly  
-
-- Analytical Thinking 
-  -Breaking down packet-level communication step-by-step  
+- Analytical Thinking   
+  Breaking down packet-level communication step-by-step  
 
 ## Tools & Technologies Used
 
