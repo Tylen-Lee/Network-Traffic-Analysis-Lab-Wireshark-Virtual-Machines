@@ -43,7 +43,7 @@ This project also aims to develop skills in virtualization, network configuratio
 
 Click below to view the full Network-Traffic-Analysis-Lab-Wireshark-&-Virtual-Machines documentation:
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-blue?style=for-the-badge)](./Network-Traffic-Analysis-Lab-Wireshark-&-Virtual-Machines.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](./Network-Traffic-Analysis-Lab-Wireshark-&-Virtual-Machines.pdf)
 
 <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/e1b1af4d-8566-4331-9c63-c059dd85f860" />
 
